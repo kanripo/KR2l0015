@@ -1,0 +1,5 @@
+# -*- mode: mandoku-view; -*-
+#+TITLE: 欽定歷代職官表
+#+DATE: 2015-08-24 22:48:29.648497
+#+PROPERTY: ID KR2l0015
+#+PROPERTY: BASEEDITION WYG    
